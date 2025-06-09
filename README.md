@@ -32,7 +32,7 @@ This PDU is responsible for safely distributing power from the high-voltage batt
 
 ## 📷 PCB Preview
 
-![PDU PCB Layout](images/pdupcb.png)
+![PDU PCB Layout](Images/pdupcb.png)
 
 
 ---
