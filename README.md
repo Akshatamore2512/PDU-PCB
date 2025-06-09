@@ -30,8 +30,6 @@ This PDU is responsible for safely distributing power from the high-voltage batt
 
 ## 📷 PCB Preview
 
-## 📷 PCB Preview
-
 ![PDU PCB Layout](Images/pdupcb.png)
 
 
@@ -40,7 +38,6 @@ This PDU is responsible for safely distributing power from the high-voltage batt
 ## 📂 Repository Contents
 
 - `KiCad Files/` → Complete schematic and PCB layout files  
-- `Gerber/` → Manufacturing files for PCB fabrication  
 - `image/` → PCB screenshots and renders  
 - `README.md` → Project description and details  
 
